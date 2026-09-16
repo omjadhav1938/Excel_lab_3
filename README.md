@@ -1,5 +1,5 @@
-Calculating Revenue and Key Business Metrics in Excel.
+Auditing Formulas and Managing Named Ranges.
 
-In this project, I worked on DMart sales data using Excel and calculated important values like total sales, discount, net revenue, and average order value.
+In this project, I organized raw DMart sales data in Excel to make it clean and easy to understand. I used tables, named ranges, and checked formulas for sales, discount, and profit to make sure everything was correct.
 
-I tried to understand how discounts affect the final revenue and overall business performance. This helped me get better at using Excel and understanding how real sales data is analyzed.
+This helped me learn how to prepare proper data for reports and dashboards.
